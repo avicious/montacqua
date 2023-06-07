@@ -15,6 +15,8 @@ import areaIcon from "./area-icon.png";
 import bathIcon from "./bath-icon.png";
 import peopleIcon from "./people-icon.png";
 import roomIcon from "./room-icon.png";
+import jacuzzi from "./jacuzzi-img.webp";
+import restaurant from "./restaurant-img.webp";
 
 export {
   bannerBG,
@@ -33,5 +35,7 @@ export {
   areaIcon,
   bathIcon,
   peopleIcon,
-  roomIcon
+  roomIcon,
+  jacuzzi,
+  restaurant
 };
