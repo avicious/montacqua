@@ -6,6 +6,8 @@ import exquisiteFoods from "./exquisite-foods.webp";
 import stylishPools from "./stylish-pools.webp";
 import treatSmall from "./Treat-small.webp";
 import treatLarge from "./Treat-large.webp";
+import quote from "./quote.webp";
+import author from "./author.webp";
 
 export {
   bannerBG,
@@ -16,4 +18,6 @@ export {
   stylishPools,
   treatSmall,
   treatLarge,
+  quote,
+  author,
 };
