@@ -3,6 +3,7 @@ import Intro from "../components/Intro";
 import TreatSection from "../components/TreatSection";
 import Book from "../components/Book";
 import Testimonials from "../components/Testimonials";
+import Contact from "../components/Contact";
 
 const HomePage = () => (
   <>
@@ -11,6 +12,7 @@ const HomePage = () => (
     <TreatSection />
     <Book />
     <Testimonials />
+    <Contact />
   </>
 );
 
