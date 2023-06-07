@@ -4,5 +4,16 @@ import menu from "./menu.svg";
 import amazingViews from "./amazing-views.webp";
 import exquisiteFoods from "./exquisite-foods.webp";
 import stylishPools from "./stylish-pools.webp";
+import treatSmall from "./Treat-small.webp";
+import treatLarge from "./Treat-large.webp";
 
-export { bannerBG, close, menu, amazingViews, exquisiteFoods, stylishPools };
+export {
+  bannerBG,
+  close,
+  menu,
+  amazingViews,
+  exquisiteFoods,
+  stylishPools,
+  treatSmall,
+  treatLarge,
+};

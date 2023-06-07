@@ -3,6 +3,7 @@
     width: 80%;
     margin: 0 auto;
     max-width: 1720px;
+    border-bottom: 1px solid #e2c3a9;
 }
 
 .introText {
