@@ -13,7 +13,7 @@ const TreatSection = () => (
         Vinkeles, located in an 18th century bakery, savor sophisticated
         delicacies.
       </p>
-      <Link to="/villas">Book Our Villa</Link>
+      <Link to="">Book Our Villa</Link>
     </div>
     <div className={styles.image}>
       <img className={styles.small} src={treatSmall} alt="plant" />

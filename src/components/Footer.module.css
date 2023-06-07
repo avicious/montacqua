@@ -1,0 +1,10 @@
+.footer {
+    background-color: #000;
+    text-align: center;
+}
+
+.footer p {
+    color: #fff;
+    font-family: 'Cormorant Garamond', serif;
+    padding: 1rem 0;
+}

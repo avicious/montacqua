@@ -10,7 +10,7 @@ const Book = () => (
         Michelin-starred Restaurant Vinkeles to the opportunity to learn about
         the benefits of organizing the perfect romantic weekend.
       </p>
-      <Link to="/villa">Book Our Villa</Link>
+      <Link to="">Book Our Villa</Link>
     </div>
   </section>
 );

@@ -1,3 +1,9 @@
-const VillaPage = () => <div>VillaPage</div>;
+import Villas from "../components/Villas";
+
+const VillaPage = () => (
+  <>
+    <Villas />
+  </>
+);
 
 export default VillaPage;
