@@ -5,7 +5,7 @@ const Hero = () => {
     <div className={styles.hero}>
       <div className={styles.wrapper}>
         <h1>
-          <span class={styles.headingSpan}>visit</span>
+          <span className={styles.headingSpan}>visit</span>
           MONTACQUA RESORT
         </h1>
       </div>
