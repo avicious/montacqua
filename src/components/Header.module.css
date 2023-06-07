@@ -2,6 +2,7 @@
     background-color: black;
     font-family: 'Cormorant Garamond', serif;
     padding: 1rem 2rem;
+    max-width: 1720px;
 }
 
 .header nav {
@@ -46,6 +47,12 @@
 
 .block {
     display: block;
+}
+
+@media (min-width: 1720px) {
+    .header {
+        margin: 0 auto;
+    }
 }
 
 @media(max-width: 780px) {

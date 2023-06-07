@@ -20,7 +20,7 @@ const Header = () => {
             <NavLink to="/villas">Our Villas</NavLink>
           </li>
           <li>
-            <NavLink>About Us</NavLink>
+            <NavLink to="/about">About Us</NavLink>
           </li>
         </ul>
         <div className={styles.mobile}>
@@ -38,7 +38,7 @@ const Header = () => {
                 <NavLink to="/villas">Our Villas</NavLink>
               </li>
               <li>
-                <NavLink>About Us</NavLink>
+                <NavLink to="/about">About Us</NavLink>
               </li>
             </ul>
           </div>
