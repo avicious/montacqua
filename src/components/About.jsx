@@ -3,7 +3,7 @@ import { jacuzzi, restaurant } from "../assets";
 
 const About = () => (
   <section className={styles.about}>
-    <div>
+    <div className="container">
       <h2>Treat yourself to everyday exceptional.</h2>
       <p>
         Enjoy The Montacqua Villas, which is open all day, as well as Bar

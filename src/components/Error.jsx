@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Error = () => (
   <section className={styles.error}>
-    <div>
+    <div className="container">
       <h2>404</h2>
       <p>
         Sorry, we couldn't find what you were looking for, try going back home.

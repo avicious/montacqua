@@ -1,8 +1,4 @@
 .intro {
-    padding: 120px 0;
-    width: 80%;
-    margin: 0 auto;
-    max-width: 1720px;
     border-bottom: 1px solid #e2c3a9;
 }
 
@@ -35,10 +31,6 @@
 }
 
 @media (max-width: 990px) {
-    .intro {
-        padding: 80px 0;
-    }
-
     .introText {
         font-size: 30px;
         line-height: 40px;
@@ -50,10 +42,6 @@
 }
 
 @media (max-width: 780px) {
-    .intro {
-        padding: 60px 0;
-    }
-
     .introText {
         font-size: 22px;
         line-height: 30px;
@@ -75,10 +63,6 @@
 }
 
 @media (max-width: 479px) {
-    .intro {
-        padding: 40px 0;
-    }
-
     .introText {
         font-size: 20px;
         line-height: 30px;

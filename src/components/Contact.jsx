@@ -7,7 +7,7 @@ const Contact = () => {
 
   return (
     <section className={styles.contact}>
-      <div>
+      <div className="container">
         <h2>Any questions?</h2>
         <p>
           Send us a message and our amazing tem of people will get back to you
@@ -15,12 +15,13 @@ const Contact = () => {
         </p>
         <form onSubmit={fromSubmit}>
           <div className={styles.fieldRow}>
-            <input type="text" maxLength="256" placeholder="Name" />
-            <input type="email" maxLength="256" placeholder="Email" />
+            <input type="text" name="name" maxLength="256" placeholder="Name" autoComplete="true" />
+            <input type="email" name="email" maxLength="256" placeholder="Email" autoComplete="true" />
           </div>
           <textarea
             placeholder="Write message here...."
             maxLength="5000"
+            name="message"
           ></textarea>
           <input type="submit" value="Send message" />
         </form>
