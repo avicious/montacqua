@@ -1,0 +1,74 @@
+.book {
+    padding: 120px 0;
+    max-width: 1720px;
+    background-color: #883c36;
+    color: white;
+    margin: 0 auto;
+}
+
+.book div {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.book h2 {
+    font-family: 'Cormorant Garamond', sans-serif;
+    font-size: 60px;
+    line-height: 70px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    font-style: italic;
+}
+
+.book p {
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.book a {
+    text-decoration: none;
+    padding: 15px 40px;
+    background-color: #f7e9de;
+    color: #883c36;
+    font-weight: 600;
+}
+
+@media(max-width: 990px) {
+    .book {
+        padding: 80px 0;
+    }
+
+    .book h2 {
+        font-size: 46px;
+        line-height: 56px;
+    }
+
+}
+
+@media (max-width: 780px) {
+    .book {
+        padding: 60px 0;
+    }
+
+    .book h2 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+
+    .book p {
+        width: 100%;
+    }
+}
+
+@media (max-width: 479px) {
+    .book {
+        padding: 40px 0;
+    }
+
+    .book h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+}
