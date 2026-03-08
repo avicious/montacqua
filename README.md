@@ -2,7 +2,7 @@
 ![montacqua](https://github.com/user-attachments/assets/787e2325-ff66-42b5-ac4c-44c63c934aa6)
 ## Live Demo
 
-🚀 **Check out the live version of this project here:** https://montacqua.vercel.app/
+**Check out the live version of this project here:** https://montacqua.vercel.app/
 
 ## Project Overview
 
